@@ -1,6 +1,10 @@
 from datetime import datetime
+<<<<<<< HEAD
 #master comment
 
+=======
+#masterBranch comment
+>>>>>>> masterBranch edit comment
 now = datetime.now()
 
 mm = str(now.month)
